@@ -1,0 +1,39 @@
+<html> 
+<head>
+<title>¡¡Autos de semi usados¡¡</title>
+</head>
+
+
+<body background="imagenes/fondo1.jpg" bgcolor="#fffafa" text="#ff0a0a"><img src="imagenes/logo de la empresa.png">
+
+<img src="imagenes/inicio.jpg"> <img src="imagenes/nosotros.png"> <img src="imagenes/servicios.jpg"> <img src="imagenes/contacto.jpg">
+
+<img src="imagenes/nissan.png"> <img src="imagenes/ford.png">
+
+<p>Aqui va texto explicativo </p>
+
+
+<p>Aqui va texto explicativo con mas informacion detallada de autos </p>
+<table border="2"> 
+<tr>
+<td>texto1</td>
+<td>texto2</td>
+<td>texto3</td>
+</tr>
+<tr>
+<td>texto1</td>
+<td>texto2</td>
+<td>texto3</td>
+</tr>
+<tr>
+<td>texto1</td>
+<td>texto2</td>
+<td>texto3</td>
+</tr>
+
+
+</table>
+
+
+</body>
+</html>
